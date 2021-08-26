@@ -1,0 +1,1 @@
+web: gunicorn spihoppingly.wsgi
